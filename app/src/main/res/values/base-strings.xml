@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string name="activity_name_classification">Mbuh</string>
+    <string name="activity_name_detection">Mbuh reti</string>
+    <string name="activity_name_speech">Mbuh ngomong</string>
+</resources>
